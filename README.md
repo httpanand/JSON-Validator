@@ -1,2 +1,6 @@
 # JSON-Validator
-Check if your JSON file is valid or not .
+
+### Keep your JSON file and this Validator in a same folder and run code . 
+``` 
+py main.py <yourjsonfilename.json> 
+```
